@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\bin\Debug\netcoreapp3.1\LINQ Extension Methods.exe
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\bin\Debug\netcoreapp3.1\LINQ Extension Methods.deps.json
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\bin\Debug\netcoreapp3.1\LINQ Extension Methods.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\bin\Debug\netcoreapp3.1\LINQ Extension Methods.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\bin\Debug\netcoreapp3.1\LINQ Extension Methods.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\bin\Debug\netcoreapp3.1\LINQ Extension Methods.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\obj\Debug\netcoreapp3.1\LINQ Extension Methods.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\obj\Debug\netcoreapp3.1\LINQ Extension Methods.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\obj\Debug\netcoreapp3.1\LINQ Extension Methods.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\obj\Debug\netcoreapp3.1\LINQ Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\obj\Debug\netcoreapp3.1\LINQ Extension Methods.dll
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\obj\Debug\netcoreapp3.1\LINQ Extension Methods.pdb
+C:\Users\Rohit Dasari\source\repos\LINQ Extension Methods\obj\Debug\netcoreapp3.1\LINQ Extension Methods.genruntimeconfig.cache
